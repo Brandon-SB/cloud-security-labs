@@ -6,19 +6,44 @@
 
 ## Current objective
 
-Build the engineering layer that complements existing cybersecurity, infrastructure, cloud and leadership experience.
+Prepare for **AWS Solutions Architect – Associate** while building the engineering layer that complements existing cybersecurity, infrastructure, cloud and leadership experience.
+
+## Current study resource
+
+- **Course:** AWS Solutions Architect – Associate preparation
+- **Instructor:** Joan Amengual
+- **Platform:** Udemy
+- **Status:** In progress
+
+The course is the study backbone. GitHub is used to capture practical evidence, labs, architecture decisions and lessons learned — not to copy course material.
+
+## Current execution loop
+
+1. Study a meaningful block of the course.
+2. Capture the topics covered in simple/raw notes.
+3. Reproduce or extend the concept in AWS when practical.
+4. Document what was built, why it matters, what failed and what was learned.
+5. Publish only useful technical evidence to this repository.
 
 ## This week
 
-- [ ] Study the current roadmap topic
-- [ ] Complete at least one practical exercise
-- [ ] Capture raw notes about what was learned
+- [ ] Continue the Joan Amengual AWS Solutions Architect – Associate course
+- [ ] Report completed sections/topics after each meaningful study block
+- [ ] Complete at least one practical AWS exercise when the course reaches a lab-worthy topic
 - [ ] Turn the exercise into a documented GitHub update
 - [ ] Make at least one meaningful commit
 
-## Milestones
+## AWS SAA practical milestones
 
-- [ ] AWS Solutions Architect Associate
+- [ ] VPC multi-AZ with public/private subnets, routing and controlled egress
+- [ ] Load balancing + Auto Scaling + database architecture lab
+- [ ] IAM roles, policies and least-privilege exercises
+- [ ] Architecture failure/recovery exercise
+- [ ] Practice exams at consistent passing-level performance
+- [ ] AWS Solutions Architect – Associate certification
+
+## Long-term milestones
+
 - [ ] Terraform practical portfolio
 - [ ] AWS Security Specialty
 - [ ] GCP security portfolio
